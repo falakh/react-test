@@ -1,22 +1,11 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  height: 100%;
+  widows: 100%;
 }
+body{
+  height:100%;
+  /* background-image: url("Image/[Anitoki]_Gamers__03_[720p]_[60AB5405].mkv_snapshot_06.36_[2017.08.06_08.57.11].jpg"); */
 
-.App-link {
-  color: #09d3ac;
 }
